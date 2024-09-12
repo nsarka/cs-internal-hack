@@ -1,7 +1,7 @@
 # cs-internal-hack
 
 I explain how it all works in this blog post:
-https://nsarka.com/2019/01/21/CS-1-6-internal-hack/
+[https://nsarka.com/2019/01/21/CS-1-6-internal-hack/](https://nsarka.com/2019/01/21/CS-1-6-Internal-Hack/)
 
 Spent a weekend researching and then implementing a CS 1.6 internal hack.
 The dll hooks the game's engine function table after it is injected, then gives the player 'no flash' so that flashbangs
